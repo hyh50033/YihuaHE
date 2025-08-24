@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yihua He"
+  name             : "Yihua He (何一华)"
   pronouns         : "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "yhecj@connect.ust.hk"
   location         : "Earth"
-  employer         : "The Hong Kong University of Science and Technology"
+  employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
-  email            : "yhecj@connect.ust.hk" 
+  email            : #"yhecj@connect.ust.hk" 
 
   # Academic websites
   academia         : # URL
