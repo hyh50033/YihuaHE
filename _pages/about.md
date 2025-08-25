@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Ph.D. candidate in the department of Industrial Engineering and Decision Analytics [Industrial Engineering and Decision Analytics](https://ieda.ust.hk/eng/index.php) at the Hong Kong University of Science and Technology.
+I'm currently a Ph.D. candidate in the department of [Industrial Engineering and Decision Analytics](https://ieda.ust.hk/eng/index.php) at the Hong Kong University of Science and Technology.
 
 Before joining HKUST, I got my bachelor's degree from Nanjing University, China, majoring in Mathematics Applications. I was fortunate to be advised by Prof. Hongqiao Chen and Prof. Lianmin Zhang during my undergraduate study.  
 
