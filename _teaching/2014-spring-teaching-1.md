@@ -1,5 +1,5 @@
 ---
-title: "Postgraduate course"
+#title: "Postgraduate course"
 collection: teaching
 #type: "Postgraduate course"
 #permalink: /teaching/2014-spring-teaching-1
@@ -7,7 +7,7 @@ collection: teaching
 #date: 2014-01-01
 #location: "City, Country"
 ---
-
+"Postgraduate course"
 Production and Operations Management (2022, 2024)
 
 Heading 1
