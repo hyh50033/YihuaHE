@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Ph.D. candidate in the department of [Industrial Engineering and Decision Analytics](https://ieda.ust.hk/eng/index.php) at the Hong Kong University of Science and Technology.
-
-Before joining HKUST, I got my bachelor's degree from Nanjing University, China, majoring in Mathematics Applications. I was fortunate to be advised by Prof. Hongqiao Chen and Prof. Lianmin Zhang during my undergraduate study.  
+I'm currently a Ph.D. candidate in the [Department of Industrial Engineering and Decision Analytics](https://ieda.ust.hk/eng/index.php) at the Hong Kong University of Science and Technology (HKUST). I am fortunate to be advised by [Prof. Jin Qi](https://seng.hkust.edu.hk/about/people/faculty/jin-qi) and [Prof. Qian Liu](https://seng.hkust.edu.hk/about/people/faculty/qian-liu). Prior to joining HKUST, I got my bachelor's degree in Applied Mathematics from [Nanjing University](https://www.nju.edu.cn/en/) in 2021. I was fortunate to be advised by Prof. Hongqiao Chen and Prof. Lianmin Zhang during my undergraduate studies.  
 
 My research interest lies in robust optimization and revenue management. 
 
