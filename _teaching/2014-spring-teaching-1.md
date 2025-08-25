@@ -7,7 +7,7 @@ collection: teaching
 #date: 2014-01-01
 #location: "City, Country"
 ---
-"Postgraduate course"
+``Postgraduate course``
 Production and Operations Management (2022, 2024)
 
 Heading 1
