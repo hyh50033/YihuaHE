@@ -9,12 +9,3 @@ location: #"City, Country"
 ---
 
 Production and Operations Management (2022, 2024)
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
