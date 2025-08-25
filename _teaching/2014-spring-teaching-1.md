@@ -1,5 +1,5 @@
 ---
-#title: "Teaching experience 1"
+title: "Postgraduate course"
 collection: teaching
 #type: "Postgraduate course"
 #permalink: /teaching/2014-spring-teaching-1
@@ -8,7 +8,7 @@ collection: teaching
 #location: "City, Country"
 ---
 
-Production and Operations Management (Graduate level)                            	2022, 2024
+Production and Operations Management (2022, 2024)
 
 Heading 1
 ======
